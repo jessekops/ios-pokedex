@@ -1,0 +1,1 @@
+////  FavoritesScreen.swift//  student645147////  Created by user271057 on 11/18/24.//import SwiftUIstruct FavoritesScreen: View {    var body: some View {        VStack {            Text("Welcome to Favorites!")                .font(.headline)                .padding()        }        .navigationTitle("Favorites")    }}
